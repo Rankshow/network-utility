@@ -1,0 +1,15 @@
+C:\Users\CHIZZY STANLEOVIC\GettingStarted\bin\Debug\net7.0\GettingStarted.exe
+C:\Users\CHIZZY STANLEOVIC\GettingStarted\bin\Debug\net7.0\GettingStarted.deps.json
+C:\Users\CHIZZY STANLEOVIC\GettingStarted\bin\Debug\net7.0\GettingStarted.runtimeconfig.json
+C:\Users\CHIZZY STANLEOVIC\GettingStarted\bin\Debug\net7.0\GettingStarted.dll
+C:\Users\CHIZZY STANLEOVIC\GettingStarted\bin\Debug\net7.0\GettingStarted.pdb
+C:\Users\CHIZZY STANLEOVIC\GettingStarted\obj\Debug\net7.0\GettingStarted.csproj.AssemblyReference.cache
+C:\Users\CHIZZY STANLEOVIC\GettingStarted\obj\Debug\net7.0\GettingStarted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHIZZY STANLEOVIC\GettingStarted\obj\Debug\net7.0\GettingStarted.AssemblyInfoInputs.cache
+C:\Users\CHIZZY STANLEOVIC\GettingStarted\obj\Debug\net7.0\GettingStarted.AssemblyInfo.cs
+C:\Users\CHIZZY STANLEOVIC\GettingStarted\obj\Debug\net7.0\GettingStarted.csproj.CoreCompileInputs.cache
+C:\Users\CHIZZY STANLEOVIC\GettingStarted\obj\Debug\net7.0\GettingStarted.dll
+C:\Users\CHIZZY STANLEOVIC\GettingStarted\obj\Debug\net7.0\refint\GettingStarted.dll
+C:\Users\CHIZZY STANLEOVIC\GettingStarted\obj\Debug\net7.0\GettingStarted.pdb
+C:\Users\CHIZZY STANLEOVIC\GettingStarted\obj\Debug\net7.0\GettingStarted.genruntimeconfig.cache
+C:\Users\CHIZZY STANLEOVIC\GettingStarted\obj\Debug\net7.0\ref\GettingStarted.dll
